@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealProjects\\SpartaProject\\Source\\SpartaProject\\SpartaProject.Build.cs",
+		"D:\\UnrealProjects\\SpartaProject\\Source\\SpartaProject.Target.cs",
+		"D:\\UnrealProjects\\SpartaProject\\Source\\SpartaProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
